@@ -55,7 +55,7 @@ myreadextension/
 2. Right-click
 3. Click **"Read Selected Text"**
 
-![Screenshot](animation.gif)
+![Screenshot](Animation.gif)
 
 ### 👉 Method 2 (Popup)
 
@@ -63,7 +63,7 @@ myreadextension/
 2. Select text
 3. Click **Read**
 
-![Screenshot](animation2.gif)
+![Screenshot](Animation2.gif)
 
 ---
 
